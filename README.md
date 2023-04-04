@@ -9,7 +9,7 @@
 <body>
     
     <h1>This is a checkpoint of MongoDB</h1>
-    <img src="https://github.com/AhmedHassiki/checkpointmongodb/blob/master/1.png" alt="imagedetest"/>
+    <img src="https://github.com/AhmedHassiki/checkpointmongodb/blob/master/1.png" alt="imagedetest" >
     <p>The use of MongoDB commands</p>
 
 </body>
